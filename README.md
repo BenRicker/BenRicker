@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenRicker
-- 👀 I’m interested in App and game development.
+- 👀 I’m interested in App and Game Development.
 - 🌱 I’m currently studying computer science at Longwood University.
 - 💞️ I’m looking to collaborate on Java and C/C++ projects.
 - 📫 You can reach me at bmricker@outlook.com
